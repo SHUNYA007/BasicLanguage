@@ -1,10 +1,13 @@
-
+TokenKeyword='KEYWORD'
+TokenId='IDENTIFIER'
 TokenInt='INT'
 TokenFloat='FLOAT'
 TokenString='STRING'
 TokenMul='MUL'
 TokenAdd='ADD'
 TokenSub='SUB'
+TokenDiv='DIV'
+TokenEq='EQU'
 TokenLParen='LEFT PARANTHESIS'
 TokenRParen='RIGHT PARANTHESIS'
 class Token:
